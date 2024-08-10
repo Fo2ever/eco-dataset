@@ -1,3 +1,5 @@
 ./venv
 venv
 env
+./val2
+val2/masks
