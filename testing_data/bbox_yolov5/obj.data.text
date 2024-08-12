@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 25
+names: ['BoatNoodle', 'Carbohydrate', 'KaowCrispyMoo', 'KaowKaMoo', 'KaowKaiTod', 'KaowManKai', 'KaowMokKai', 'KaowMootod', 'KaowNueTod', 'KaowPad', 'KaowPadKraPrao', 'KaowRadKaenge', 'KaowYumKai', 'Leng', 'Padthai', 'Platod', 'Protein', 'SeafoodPadtakrai', 'Spaghetti', 'Steak', 'Taokua', 'Tomyum', 'friedNoodle', 'noodle', 'vegetable']
