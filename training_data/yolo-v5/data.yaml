@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 13
+names: ['Carbohydrate', 'Curry', 'Kaow-Crispymoo', 'Kaow-Friedpork', 'Kaow-Mankai', 'Kaow-Mokkai', 'Kaow-Padkrapao', 'Kaow-Yum', 'Noodle', 'Protein', 'Steak', 'Taokua', 'Vegetable']
